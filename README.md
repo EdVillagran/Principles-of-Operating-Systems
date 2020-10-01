@@ -6,8 +6,8 @@ Course work for CSCI 480 Principles of Operating Systems(Spring 2020) written in
 ## Assignment 1 </br>
 
 Program Summary: This program is designed to test several functions
- * such as fork(), getpid(), getppid(), sleep(),
- * wait(), and system().
+  such as fork(), getpid(), getppid(), sleep(),
+  wait(), and system().
 
 ## Assignment 2 </br>
 

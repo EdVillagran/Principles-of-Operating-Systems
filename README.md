@@ -1,7 +1,7 @@
 # Principles-of-Operating-Systems
 Course work for CSCI 480 Principles of Operating Systems(Spring 2020) written in C++ and C.
 * Course Objective: </br>
-  <t>Principles and practices of modern operating system design. Includes file systems organization; memory management; multitasking; windowing interfaces; interprocess communication, including communications across a network; and client-server models of processing.
+  <t>Principles and practices of modern operating system design. Includes file systems organization; memory management; multitasking; windowing interfaces; interprocess communication, including communications across a network and client-server models of processing.
 
 ## Assignment 1 </br>
 
@@ -20,18 +20,18 @@ Program Summary: The purpose of this assignment
 
 ## Assignment 3 </br>
 
-Program Summary: We are to create a microshell
+Program Summary: Create a microshell
   simulator that is capable of running commands.
   It should reconize '>+' & '<+' as the redirect
   command origionally > & <.
 
 ## Assignment 4 </br>
 
-Program Summary: We are to create a virtual
+Program Summary: Creates a virtual
   memory simulation and using FIFO and Demand Paging alogorithms for
   page replacement. 
 
-## Assignment 4 </br>
+## Assignment 5 </br>
 
 Program Summary: Use POSIX thread, Semaphores 
   and a mutex to simulate the producer/consumer 
